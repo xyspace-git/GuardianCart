@@ -1,4 +1,4 @@
 export const ROUTES = {
-    LAUNCH_SCREEN: '/launch',
-    HOMEPAGE_ROUTE: '/'
+    LAUNCH_SCREEN: '/',
+    HOMEPAGE_ROUTE: '/home'
 };
