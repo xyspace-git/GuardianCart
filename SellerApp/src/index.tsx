@@ -7,7 +7,7 @@ import WebFont from 'webfontloader'
 
 WebFont.load({
     google: {
-        families: ['Lilita One', 'Alata', 'Silkscreen']
+        families: ['Lilita One', 'Alata', 'Silkscreen', 'Bungee Spice', 'Eagle Lake']
     }
 });
 

@@ -4,7 +4,6 @@ import { PersistGate } from 'redux-persist/integration/react'
 import RootComponent from './RootComponent'
 import { persistor, store } from './store/reducers/store'
 
-import { Button } from 'antd'
 
 const App: React.FC = () => {
     return (
